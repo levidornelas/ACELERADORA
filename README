@@ -1,0 +1,2 @@
+Desafio da primeira fase da 'Aceleradora Ágil' um programa da PUC/RS para distribuir bolsas de pesquisa estudantis. Consiste na criação de um sistema de consultas, em que deve haver um tratamento de erros quanto aos pacientes já cadastrados, etc.
+Um extra adicionado foi a adição de todos os pacientes e agendamentos a um 'banco de dados' feito utilizando a biblioteca pública 'JSON' DO python, inserindo esses dados dentro do arquivo banco.json.
